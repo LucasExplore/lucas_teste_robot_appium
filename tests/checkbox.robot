@@ -19,7 +19,5 @@ Deve marcar as techs que usam Appium
         Click Element     //android.widget.CheckBox[contains(@text, "${tech}")]
         Sleep             1  
     END
-
-    Sleep            3 
     
     Close session

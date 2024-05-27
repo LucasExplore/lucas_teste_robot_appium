@@ -28,7 +28,7 @@ Não deve logar com senha incorreta
     Go to item        Login    Olá Padawan, vamos testar o login?
 
     Input Text        com.qaxperience.yodapp:id/etEmail      yoda@qax.com
-    Input Text        com.qaxperience.yodapp:id/etPassword   sith
+    Input Text        com.qaxperience.yodapp:id/etPassword   1234
 
     Click Element     com.qaxperience.yodapp:id/btnSubmit
 

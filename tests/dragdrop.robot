@@ -19,8 +19,4 @@ Deve arrastar o Skywalker e soltar no topo da lista
 
     My Drag and Drop    ${origin}    ${target}
 
-    
-
-    Sleep    2
-
     Close session

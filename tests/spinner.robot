@@ -13,8 +13,6 @@ Deve escolher o nível Padawan
     Navigate to       Formulários
     Go to item        Cadastro    Crie sua conta.
 
-    Sleep    5
-
     Select level      Padawan
 
     Close session
@@ -25,8 +23,6 @@ Deve escolher o nível Jedi
     Get started
     Navigate to       Formulários
     Go to item        Cadastro    Crie sua conta.
-
-    Sleep    5
 
     Select level      Jedi
 
@@ -39,7 +35,6 @@ Deve escolher o nível Sith
     Navigate to       Formulários
     Go to item        Cadastro    Crie sua conta.
 
-    Sleep    5
 
     Select level      Sith
 
@@ -51,8 +46,6 @@ Deve escolher o nível Outros
     Get started
     Navigate to       Formulários
     Go to item        Cadastro    Crie sua conta.
-
-    Sleep    5
 
     Select level      Outros
 
