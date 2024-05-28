@@ -10,7 +10,7 @@ Appium
 Robot Framework
 Instalação
 Passo 1: Clone o repositório
-Clone este repositório para o seu ambiente local: git clone https://github.com/LucasExplore/robot_appium.git
+Clone este repositório para o seu ambiente local: git clone https://github.com/LucasExplore/lucas_teste_robot_appium.git
 
 Navegue até o diretório do projeto
 
